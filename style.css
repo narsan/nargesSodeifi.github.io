@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Play;
+    src: url('Play/Play-Bold.ttf');
+    font-weight: normal;
+  }
+
+  .full-center{
+    min-height : 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Play;
+    color:aliceblue;
+    font-size: xx-large;
+  }
