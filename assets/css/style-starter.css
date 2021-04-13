@@ -11787,7 +11787,7 @@ div#small-dialog iframe {
     }
     
     .mylist li::before {
-      content: "\2022";
+      /* content: "\2022"; */
       color: #3EB595;
       font-weight: bolder;
       font-size: larger;
