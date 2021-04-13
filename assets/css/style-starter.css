@@ -11,7 +11,7 @@ Author URL: http://w3layouts.com
  */
  @font-face {
   font-family: Roboto;
-  src: url('../fonts/Roboto/Roboto-Regular.ttf');
+  src: url('../fonts/Roboto/Roboto-Regular.ttf') format('ttf');
 }
 
 * {
@@ -45,7 +45,7 @@ Author URL: http://w3layouts.com
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans-serif: Roboto,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
 *,
