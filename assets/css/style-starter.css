@@ -11787,8 +11787,11 @@ div#small-dialog iframe {
     }
     
     .mylist li::before {
-      /* content: "\2022"; */
+      content: "\2022";
       color: #3EB595;
+      background-position: 0 5px;
+      line-height: 1.5625;
+      padding: 0 0 4px 30px;
       font-weight: bolder;
       font-size: larger;
       display: inline-block; 
