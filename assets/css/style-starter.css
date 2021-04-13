@@ -11791,7 +11791,7 @@ div#small-dialog iframe {
       color: #3EB595;
       /* line-height: 2.5; */
       font-weight: bolder;
-      /* font-size: 30px; */
+      font-size: 30px !important;
       display: inline-block; 
       width: 1em;
       margin-left: -1em;
