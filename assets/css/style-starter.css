@@ -11790,8 +11790,8 @@ div#small-dialog iframe {
       content: "\2022";
       color: #3EB595;
       /* line-height: 2.5; */
-      /* font-weight: bolder; */
-      font-size: 10px !important;
+      font-weight: bold;
+      /* font-size: 10px !important; */
       display: inline-block; 
       width: 1em;
       margin-left: -1em;
