@@ -9,6 +9,15 @@ Author URL: http://w3layouts.com
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ @font-face {
+  font-family: Roboto;
+  src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+* {
+  font-family:Roboto !important;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11780,7 +11789,7 @@ div#small-dialog iframe {
     }
 
 
-    .mylist{
+  .mylist{
       list-style: none;
     }
     
