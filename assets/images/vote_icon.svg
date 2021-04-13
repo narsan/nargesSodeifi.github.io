@@ -1,0 +1,21 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <polyline stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_1" points="48.91 28.195 53.39 30.071 30 39.865 6.61 30.071 11.09 28.195" class="a"/>
+  <line stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_2" y2="27.991" y1="32.151" x2="25.033" x1="34.967" class="a"/>
+  <path stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_3" d="m6.61,30.070999l0,17.294003a2.306,2.306 0 0 0 1.414999,2.126999l21.084,8.828999a2.3,2.3 0 0 0 1.782001,0l21.083998,-8.828999a2.306,2.306 0 0 0 1.415001,-2.126999l0,-17.294003" class="a"/>
+  <line stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_4" y2="58.5" y1="39.865" x2="30" x1="30" class="a"/>
+  <rect stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_5" y="3.903439" x="9.136672" width="16.089" transform="rotate(-12.528, 17.1812, 15.0084)" rx="2" height="22.21" class="a"/>
+  <path stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_6" d="m14.642,18.738001s-2.667,-8.095001 1.472,-9.014001s5.150999,7.543 5.150999,7.543" class="a"/>
+  <path stroke-width="1.5px" stroke-linejoin="round" stroke-linecap="round" stroke="#3eb595" fill="none" id="svg_7" d="m13.943,15.64c1.84,0.217 5.657001,-1.076 6.3,-2.490001" class="a"/>
+  <path fill="#e82e5f" id="svg_8" d="m44.653,13.969a5.5,5.5 0 0 0 -1.706001,-0.3c-0.542,-0.037 -1.084,-0.07 -1.625999,-0.099999a21.087,21.087 0 0 1 -0.93,3.237999a3.853,3.853 0 0 0 2.276001,0.582001a3.425,3.425 0 0 0 2.691002,-1.1a1.466,1.466 0 0 0 -0.705002,-2.32z" class="b"/>
+  <path fill="#e82e5f" id="svg_9" d="m44.752998,11.853c0.163002,-0.037 0.471001,-0.089 0.557003,-0.262c0.312,-0.629 -1.444,-1.299999 -2.517002,-1.429a3.565,3.565 0 0 0 -0.834999,-0.054c-0.063999,0.235001 0.018002,-0.032 -0.272999,1.565001c-0.024002,0.127999 -0.050003,0.255 -0.074001,0.382999a17.532,17.532 0 0 0 3.141998,-0.203z" class="b"/>
+  <path fill="#e82e5f" id="svg_10" d="m51.783001,4.421l-11.603001,-3.394a2.5,2.5 0 0 0 -3.099998,1.7l-5.114002,17.473001a2.505,2.505 0 0 0 1.700001,3.099998l11.599998,3.393002a2.5,2.5 0 0 0 3.100002,-1.700001l5.113998,-17.471a2.5,2.5 0 0 0 -1.696999,-3.101zm-6.563999,13.869001a5.707,5.707 0 0 1 -6.257,-0.700001a0.74,0.74 0 0 1 -0.140003,-0.827a20.573,20.573 0 0 0 1.306,-4.889001c0.138,-0.745 0.242001,-1.504999 0.418003,-2.242c0.199997,-0.835 0.876999,-1.017 1.646,-1.009a5.847,5.847 0 0 1 4.035,1.432a2,2 0 0 1 0.5,2.013a1.765,1.765 0 0 1 -0.800003,0.911a2.8,2.8 0 0 1 1.258003,2.429a3.473,3.473 0 0 1 -1.966,2.882001z" class="b"/>
+ </g>
+</svg>
