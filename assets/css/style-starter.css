@@ -11779,4 +11779,17 @@ div#small-dialog iframe {
     
     }
 
+
+    .mylist{
+      list-style: none;
+    }
+    
+    .mylist li::before {
+      content: "\2022";
+      color: #3EB595;
+      font-weight: bold;
+      display: inline-block; 
+      width: 1em;
+      margin-left: -1em;
+    }    
 /*# sourceMappingURL=style-starter.css.map */
