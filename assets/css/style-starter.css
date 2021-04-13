@@ -11789,11 +11789,9 @@ div#small-dialog iframe {
     .mylist li::before {
       content: "\2022";
       color: #3EB595;
-      background-position: 0 5px;
-      line-height: 1.5625;
-      padding: 0 0 4px 30px;
+      line-height: 2.5;
       font-weight: bolder;
-      font-size: larger;
+      font-size: 30px;
       display: inline-block; 
       width: 1em;
       margin-left: -1em;
