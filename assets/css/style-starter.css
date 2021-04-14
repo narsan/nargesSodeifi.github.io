@@ -11731,7 +11731,7 @@ div#small-dialog iframe {
 
 
 
-  @media (min-width: 1200px) {
+  @media (min-width: 992px) {
 
     .bgimg {
             background-image: URL('../images/butterfly-min.png');
@@ -11746,13 +11746,13 @@ div#small-dialog iframe {
     
     
     /* Landscape tablets and medium desktops */
-    @media (min-width: 992px) and (max-width: 1199px) {
+    /* @media (min-width: 992px) and (max-width: 1199px) {
     
           .bgimg {
             background-image: none ;
         }
     
-    }
+    } */
     
     /* Portrait tablets and small desktops */
     @media (min-width: 768px) and (max-width: 991px) {
