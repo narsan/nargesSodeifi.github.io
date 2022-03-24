@@ -7,13 +7,13 @@
  <g>
   <title>Layer 1</title>
   <rect height="4" width="4" id="svg_1" fill="#e82e5f"/>
-  <rect height="4" width="4" x="6" id="svg_2" fill="#3eb595"/>
-  <rect height="4" width="4" x="12" id="svg_3" fill="#a9f407"/>
-  <rect height="4" width="4" y="6" id="svg_4" fill="#3eb595"/>
-  <rect height="4" width="4" x="6" y="6" id="svg_5" fill="#a9f407"/>
+  <rect height="4" width="4" x="6" id="svg_2" fill="#4f71be"/>
+  <rect height="4" width="4" x="12" id="svg_3" fill="#3dc6fc"/>
+  <rect height="4" width="4" y="6" id="svg_4" fill="#4f71be"/>
+  <rect height="4" width="4" x="6" y="6" id="svg_5" fill="#3dc6fc"/>
   <rect height="4" width="4" x="12" y="6" id="svg_6" fill="#ff007f"/>
-  <rect height="4" width="4" y="12" id="svg_7" fill="#a9f407"/>
+  <rect height="4" width="4" y="12" id="svg_7" fill="#3dc6fc"/>
   <rect height="4" width="4" x="6" y="12" id="svg_8" fill="#e82e5f"/>
-  <rect height="4" width="4" x="12" y="12" id="svg_9" fill="#3eb595"/>
+  <rect height="4" width="4" x="12" y="12" id="svg_9" fill="#4f71be"/>
  </g>
 </svg>
