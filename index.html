@@ -621,18 +621,18 @@ Author URL: http://w3layouts.com
   let textArrayIndex = 0;
   let charIndex = 0;
 
-  function type() {
-    if (charIndex < textArray[textArrayIndex].length) {
-      if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
-      typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
-      charIndex++;
-      setTimeout(type, typingDelay);
-    }
-    // } else {
-    //   cursorSpan.classList.remove("typing");
-    //   setTimeout(erase, newTextDelay);
-    // }
-  }
+  // function type() {
+  //   if (charIndex < textArray[textArrayIndex].length) {
+  //     if (!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+  //     typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+  //     charIndex++;
+  //     setTimeout(type, typingDelay);
+  //   }
+  //   // } else {
+  //   //   cursorSpan.classList.remove("typing");
+  //   //   setTimeout(erase, newTextDelay);
+  //   // }
+  // }
 
   // function erase() {
   //   if (charIndex > 0) {
