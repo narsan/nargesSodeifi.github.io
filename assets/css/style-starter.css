@@ -11802,8 +11802,7 @@ div#small-dialog iframe {
 
   
   .skills-section{
-    padding-right: 3rem;
-    padding-left: 3rem;
+    padding:0;
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
@@ -11836,7 +11835,7 @@ div#small-dialog iframe {
   align-items:center;
   text-align: center;
   grid-gap:1rem;
-  padding: 1rem 80px;
+  /* padding: 1rem 80px; */
   font-size: 1.2rem;
   }
   .skills-box{
