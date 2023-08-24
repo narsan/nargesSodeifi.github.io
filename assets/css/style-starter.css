@@ -11838,17 +11838,7 @@ div#small-dialog iframe {
   /* padding: 1rem 80px; */
   font-size: 1.2rem;
   }
-  .interests-container{
-    display: grid;
-    grid-tempLate-columns: repeat(3, 1fr);
-    justify-content:center;
-    align-items:center;
-    text-align: center;
-    grid-gap:1rem;
-    /* padding: 1rem 80px; */
-    font-size: 1.2rem;
-    }
-    
+
   .skills-header:after{
   content: '';
   position: absolute;
