@@ -11838,7 +11838,14 @@ div#small-dialog iframe {
   /* padding: 1rem 80px; */
   font-size: 1.2rem;
   }
-
+  .Interests-container{
+    grid-tempLate-columns: repeat(3, 1fr) !important;
+  }
+  @media (max-width: 800px) {
+    .Interests-container{
+      grid-tempLate-columns: repeat(2, 1fr) !important;
+    }
+  }
   .skills-header:after{
   content: '';
   position: absolute;
